@@ -1,4 +1,3 @@
-@@ -0,0 +1,13 @@
 # RMV - Registered Vehicle Management
 A DBMS mini-project for my university exams
 
