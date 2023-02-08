@@ -23,5 +23,10 @@ Congrats! You can now use the project.
 
 NOTE: For admin login, (username: ramesh123 password: 1243vas). For user login, you can check from the user table in database.
 
+## How to setup the mailing service?
+Follow this tutorial: [https://youtu.be/9tD8lA9foxw]
+
+
+
 
 (May contain some bugs, feel free to correct them!)
