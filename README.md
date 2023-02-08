@@ -25,5 +25,5 @@ NOTE: For admin login, (username: ramesh123 password: 1243vas). For user login, 
 
 ## How to setup the mailing service?
 Follow this tutorial: [https://youtu.be/9tD8lA9foxw]
-
+#
 (This project may contain some bugs, feel free to correct them!)
