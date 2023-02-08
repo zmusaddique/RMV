@@ -14,12 +14,12 @@
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'rapatinitish@gmail.com';
-        $mail->Password = 'pusestelcionmnci';
+        $mail->Username = '';//Enter your sender gmail
+        $mail->Password = '';//Enter your 2-step verified app generated gmail password
         $mail->SMTPSecure = 'ssl';
         $mail->Port = 465;
 
-        $mail->setFrom('rapatinitish@gmail.com');
+        $mail->setFrom('yourMail@gmail.com');
         $mail->addAddress($_POST["email"]);
 
         $mail->isHTML(true);
